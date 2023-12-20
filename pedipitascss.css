@@ -325,3 +325,8 @@ color: #ff5f00;
 border-right:100px solid #050505;
 border-left:100px solid #050505; 
 }
+  .evun-icon {
+   width: 80px; 
+   height:auto;
+    margin: 30px 5px 30px 30px;
+  }

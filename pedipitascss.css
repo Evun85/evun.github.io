@@ -330,3 +330,11 @@ border-left:100px solid #050505;
    height:auto;
     margin: 30px 5px 30px 30px;
   }
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}

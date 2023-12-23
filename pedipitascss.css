@@ -338,3 +338,33 @@ border-left:100px solid #050505;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+  .info {
+    float:left;
+    border-color: black;
+    border-style: solid;
+    width:100%;
+    height:auto;
+    border: 3px solid #FEEFD3  ;
+    background-color: #FDEBD0;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    border-radius:5px;
+  }
+  .info p {
+
+    position: centre;
+    margin: 0;
+    font-size: 15px;
+    color: #4B3202 ;
+  }
+  .info i {
+    margin: 10px 10px 10px 10px;
+    float:left;
+    text-align: center;
+    vertical-align: middle;
+    height: auto;
+  }
+  .info h2 {
+    margin-top: 5px;
+    margin-bottom:0px;
+  }
+

@@ -342,6 +342,7 @@ border-left:100px solid #050505;
   transform: translate(-50%, -50%);
 }
   .info {
+   display:flex;
     float:left;
     border-color: black;
     border-style: solid;

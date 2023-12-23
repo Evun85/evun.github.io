@@ -354,7 +354,7 @@ border-left:100px solid #050505;
     border-radius:5px;
   }
   .info p {
-
+    margin-top: 10px;
     position: centre;
     margin: 0;
     font-size: 15px;

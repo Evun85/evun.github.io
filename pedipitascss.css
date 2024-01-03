@@ -375,4 +375,29 @@ border-left:100px solid #050505;
     margin-left:60px;
     margin-right:60px;
   }
+/* list styles */
+  .senarai {}
+.senarai ol {
+  list-style: none;
+  color: black;
+}
+
+.senarai ol li {
+  font: bold 24pt helvetica, arial, sans-serif;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.senarai li p {
+  font: 12pt helvetica, arial, sans-serif;
+  color: #555;
+  padding-left: 45px;
+  margin-top: -40px;
+
+}
+
+.senarai span {
+  position: absolute;
+  line-height: 25px;
+}
 

@@ -504,3 +504,44 @@ background: linear-gradient(332deg, rgba(3,125,156,1) 28%, rgba(8,8,124,1) 70%, 
   transform: scaleX(1);
 }
 /* List Tamat */
+/* list styles div ol li-p begin */
+ .list2 div {
+  width: 500px;
+  margin: 20px auto;
+}
+
+
+.list2 ol {
+  list-style: none;
+  color: #ccc;
+}
+
+.list2 ol li {
+  font: bold 24pt helvetica, arial, sans-serif;
+  position: relative;
+  margin-bottom: 10px;
+
+}
+
+.list2 li p {
+  font: 12pt helvetica, arial, sans-serif;
+  color: #555;
+  padding-left: 50px;
+  margin-top: -35px;
+  margin-bottom: -2px;
+}
+
+.list2 span {
+  position: absolute;
+  line-height: 25px;
+}
+  .list2 p:hover {
+    background-color: #1696f2;
+    padding-left: 60px;
+    transition: padding-left 1s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+  }
+  
+  /* list styles div ol li-p end */

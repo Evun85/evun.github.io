@@ -390,6 +390,7 @@ border-left:100px solid #050505;
 }
 
 .senarai li p {
+ font: 11pt helvetica, arial, sans-serif;
   color: #555;
   padding-left: 45px;
   margin-top: -40px;

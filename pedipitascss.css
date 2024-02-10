@@ -598,7 +598,7 @@ ul.FirmStyle2{
 }
 
 ol.evun.with-margin li:before{
-  margin: 0px 12px 0px -16px;
+  margin: 0px 8px 0px -16px;
 }
 ol.evun.with-position li:before{
   position: relative;

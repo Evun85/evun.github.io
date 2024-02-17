@@ -545,12 +545,12 @@ background: linear-gradient(332deg, rgba(3,125,156,1) 28%, rgba(8,8,124,1) 70%, 
   }
   
   /* list styles div ol li-p end */
- .evun-box10 {
-    background-color: #00a884;
+  .evun-box10 {
+    background-color: #021f52;
     display:flex;
     border-radius: 5px;
-    margin-bottom: -30px;
-box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin-bottom: 25px;
 
   }
   .evun-block1 {
@@ -568,14 +568,15 @@ box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   
   }
   
-  .evun-block2 p {
-  margin-bottom: 10px;
-  }
-  
   .evun-box10:hover {
     background: rgb(77,197,78);
-background: linear-gradient(332deg, rgba(77,197,78,1) 5%, rgba(9,175,11,1) 22%, rgba(255,255,255,1) 62%, rgba(16,223,109,1) 100%);
+    background: linear-gradient(332deg, rgba(77,197,78,1) 5%, rgba(9,175,11,1) 22%, rgba(255,255,255,1) 62%, rgba(16,223,109,1) 100%);
   
+  }
+  
+  .evun-block2 h3 {
+    color: yellow;
+    padding
   }
 
 ul.evun{

@@ -569,14 +569,12 @@ background: linear-gradient(332deg, rgba(3,125,156,1) 28%, rgba(8,8,124,1) 70%, 
   }
   
   .evun-box10:hover {
-    background: rgb(77,197,78);
-    background: linear-gradient(332deg, rgba(77,197,78,1) 5%, rgba(9,175,11,1) 22%, rgba(255,255,255,1) 62%, rgba(16,223,109,1) 100%);
+    background: #0aa60a;
   
   }
   
   .evun-block2 h3 {
     color: yellow;
-    padding
   }
 
 ul.evun{
